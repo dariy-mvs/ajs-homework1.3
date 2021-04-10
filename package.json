@@ -1,0 +1,25 @@
+{
+  "name": "homework-1.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariy-mvs/ajs-homework1.3.git"
+  },
+  "author": "Marina Dariy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dariy-mvs/ajs-homework1.3/issues"
+  },
+  "homepage": "https://github.com/dariy-mvs/ajs-homework1.3#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
